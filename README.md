@@ -14,4 +14,8 @@ Once the loop is done feel free to check out your youtube homepage. In some inst
 the searched topic may not dominate the youtube homepage but he presence amongst the recommended videos will still remain higher 
 than prior to running the script. 
 
+If you are going to be downloading this for your own use:
+    - please make sure you have python3.1+ installed, as well as Selenium and undetected-chromedriver. 
+    - The `sleep()` calls can be altered to accomadate your average youtube loading time. 
 
+### please share any feedback or suggestions you have ! 
