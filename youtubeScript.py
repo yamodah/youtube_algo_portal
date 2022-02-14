@@ -21,6 +21,7 @@ browser.find_element(By.NAME,"password").send_keys(password)
 browser.find_element(By.CLASS_NAME,"VfPpkd-vQzf8d").click()
 sleep(1)
 browser.get(f"https://www.youtube.com/results?search_query={search_for}")
+sleep(2)
 
 # browser.get(f"https://www.youtube.com/results?search_query={search_for}&sp=CAI%253D") use this to search by most recent
 # yields greater variety of content but may contain some extraneous results 
